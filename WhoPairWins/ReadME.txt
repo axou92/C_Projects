@@ -6,7 +6,7 @@ Depending on a set time, you need to assemble 2 by 2 images that will be present
 Each of the 11 images can be used only once, so one image must remain.
 When the time is over, you have to compare with the others which have the same pair and which have the same remaining image.
 Moreover, you can add your images.
-To do that, add your images into the following images folder:
+To do that, add your images in the following images folder:
 	YourPath\WhoPairWins\Images (For the shortcut application)
 	YourPath\WhoPairWins\WhoPairWins (For the code application)
 
@@ -23,9 +23,9 @@ In the example provided you can see the course of the application:
 	1) Open the application
 	2) Set your time
 	3) Read the instruction if you don't know it
-	4) Press any key to lunch the application
-	5) Make your pair with your justification in secret with the paper
-	6) Compare who have the same pair and add the score
+	4) Press any key to launch the application
+	5) Make your pair with your justification in secret thanks to the paper cards
+	6) Compare who have the same pair and add the score like it explains in the instruction
 	7) Hold down the escape key to leave the game
 
 --------------------------------------------------------- INFORMATION ----------------------------------------------------------
@@ -35,9 +35,8 @@ To do that:
 	1) Download the library OpenCV with the version 3.4.2 
 	2) Create a new C++ project solution
 	3) Initialise your project for using the openCV library in x64
-	4) Add the given code into the project and add a Images folder at the right emplacement
+	4) Add the given code into the project and add an Images folder at the right emplacement
 	5) Run the project 
 
 ---------------------------------------------------------- IMPORTANT -----------------------------------------------------------
-
-Make your own rules and add your images to have more fun.
+Change the rules and add your images to have more fun.
