@@ -1,3 +1,5 @@
+CECI EST UN TEST (TM)
+
 --------------------------------------------------------- DESCRIPTION ----------------------------------------------------------
 
 This application is a game to play and have fun with your friends without a limit of person and age.
