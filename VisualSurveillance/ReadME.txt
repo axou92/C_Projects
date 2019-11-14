@@ -1,6 +1,6 @@
 ------------------------------------------------------ DESCRIPTION -------------------------------------------------------
 
-This program was realised during my year in Cranfield (2018-2019) 
+This program was realised during my year in Cranfield (2018-2019).
 It allows to detect vehicles around a railway.
 It detects if vehicles are coming or leaving.
 It can also detect if vehicles or pedestrians are present on the track.
@@ -10,9 +10,9 @@ To conclude, this program can detect all events at the same time or if no event 
 --------------------------------------------------------- USAGE ----------------------------------------------------------
 
 To run the programme, go into the Debug folder and type following parameters in the command window:
-	1) executable file
+	1) Executable the file
 	2) 0 if you use images or 1 if use video
-	3) path of your files 
+	3) Path of your files: 
 		YourPath\VisualSurveillance\Application>VisualSurveillance.exe 0 Images/*.png
 		YourPath\VisualSurveillance\Application>VisualSurveillance.exe 1 Images/levelcrossing.mpg
 	4) Follow the instruction if you select the video
