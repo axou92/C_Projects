@@ -13,8 +13,8 @@ To run the programme, go into the Debug folder and type following parameters in 
 	1) executable file
 	2) 0 if you use images or 1 if use video
 	3) path of your files 
-		YourPath\VisualSurveillance\x64\Debug>VisualSurveillance.exe 0 Images/*.png
-		YourPath\VisualSurveillance\x64\Debug>VisualSurveillance.exe 1 Images/levelcrossing.mpg
+		YourPath\VisualSurveillance\Application>VisualSurveillance.exe 0 Images/*.png
+		YourPath\VisualSurveillance\Application>VisualSurveillance.exe 1 Images/levelcrossing.mpg
 	4) Follow the instruction if you select the video
 	5) Analyse the data with the console and the images
 	6) Hold down the escape key on the image window to stop the animation
